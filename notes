@@ -1,0 +1,4 @@
+if you want to keep the observable going even after error
+you want to isolate the merge strategey and have a catch inside it
+
+so that it does not block main stuff
